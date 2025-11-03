@@ -6,7 +6,7 @@ This is a simple web application created for a cloud computing assignment. The g
 
 The application is deployed on Render and is live at the following URL:
 
-**[https://<your-app-name>.onrender.com](https://<your-app-name>.onrender.com)**
+[https://patient-management-system-9i22.onrender.com](url)
 
 *(Note: Please replace the link above with your actual URL from Render after deploying.)*
 
